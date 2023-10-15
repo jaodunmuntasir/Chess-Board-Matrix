@@ -1,0 +1,30 @@
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.exe
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.deps.json
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.runtimeconfig.json
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.pdb
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.csproj.AssemblyReference.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.AssemblyInfoInputs.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.AssemblyInfo.cs
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.csproj.CoreCompileInputs.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\refint\OOP_Assignment_1_2.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.pdb
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.genruntimeconfig.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\OOP_Assignment_1_2\obj\Debug\net6.0\ref\OOP_Assignment_1_2.dll
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.exe
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.deps.json
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.runtimeconfig.json
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.dll
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\bin\Debug\net6.0\OOP_Assignment_1_2.pdb
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.csproj.AssemblyReference.cache
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.AssemblyInfoInputs.cache
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.AssemblyInfo.cs
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.csproj.CoreCompileInputs.cache
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.dll
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\refint\OOP_Assignment_1_2.dll
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.pdb
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\OOP_Assignment_1_2.genruntimeconfig.cache
+E:\ELTE\Semester 2\Object Oriented Programming\Assignment 1\ChessboardMatrix_BVLLR5-2\OOP_Assignment_1_2\obj\Debug\net6.0\ref\OOP_Assignment_1_2.dll
